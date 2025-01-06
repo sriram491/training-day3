@@ -1,0 +1,41 @@
+Variables : 
+1.Static typed and Dynamic typed: 
+1.variables 
+2.variables are used to store the data(any kind of data) 
+
+Variables : 
+1)Case-Sensitive 
+2)Start with letters,_,$ 
+3)cannot start with numbers 
+4)Reserved words(keywords ) not allowed 
+5)Allow letters, numbers , _,$ 
+
+ 
+2)reassigning with let it possible : 
+1)Reassigning variables is possible by var 
+2)Reassigning with let also accepted 
+3)Reassigning with const not accepted 
+
+ 
+#Python , Java , C , C++ 
+#SQL ,  
+#Web Development 
+
+@Redeclaring with var is accepted : 
+Example : 
+Var a=1; 
+Vara=5; 
+Document.write(a+a) 
+Console.log(a+a) 
+@Redeclaring with let is not accepted : 
+
+Example : 
+Let a=1; 
+Let a=5; 
+Document.write(a+a) 
+Console.log(a+a) 
+
+ 
+
+
+ 
